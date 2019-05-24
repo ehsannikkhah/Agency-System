@@ -17,6 +17,7 @@ import java.security.NoSuchAlgorithmException;
  */
 
 @Controller
+
 public class CustomerController {
 
     @Autowired
